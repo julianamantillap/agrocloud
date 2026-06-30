@@ -1,0 +1,21 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+.mvn/
+HELP.md
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Entorno
+.env
+*.log
