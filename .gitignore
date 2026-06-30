@@ -19,3 +19,4 @@ build/
 # Entorno
 .env
 *.log
+.DS_Store
